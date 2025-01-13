@@ -1,0 +1,8 @@
+python-dotenv
+streamlit
+openai
+llama-index
+llama-index-core
+llama-parse
+llama-index-readers-file
+pymupdf
